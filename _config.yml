@@ -23,7 +23,7 @@ repository               : "satyenabrol/satyenabrol.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "satyen_image.jpg"
   name             : "Satyen Abrol"
   pronouns         : # example: "she/her"  
   bio              : "Vice President, Machine Learning | AI strategy, User Modeling and Personalization"
