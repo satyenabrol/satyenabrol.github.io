@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-Satyen Abrol's Homepage
 ======
 Coming soon....
 
