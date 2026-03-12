@@ -13,9 +13,6 @@ main:
 
   - title: "Experience"
     url: /experience/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "Research / Publications"
     url: /publications/
