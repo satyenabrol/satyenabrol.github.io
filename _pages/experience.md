@@ -1,34 +1,45 @@
 ---
 layout: archive
 title: "AI Systems Built"
-permalink: /experience/
-author_profile: true
----
----
-layout: archive
-title: "AI Systems Built"
 permalink: /systems/
 author_profile: true
 ---
 
-## AI Systems Built
+## Overview
 
-I build and lead teams developing **large-scale AI systems for personalization, discovery, and commerce**. Below are selected machine learning systems deployed across consumer platforms at global scale.
+I build and lead teams developing **large-scale AI systems for personalization, discovery, and commerce** across global consumer platforms.
+
+These systems span **recommender systems, multimodal search, conversational AI, customer intelligence, and fraud detection**, deployed at massive scale.
 
 ---
 
-## Real-Time Content Recommendation Platform
+## Systems at a Glance
 
-**Company:** Glance  
-**Scale:** 150M+ Daily Active Users  
+| System | Company | Focus |
+|------|------|------|
+| [Real-Time Content Recommendation](#real-time-content-recommendation-platform) | Glance | Personalization for content feeds |
+| [AI-Driven Fashion Commerce Feed](#ai-driven-fashion-commerce-feed) | Glance | Product discovery and recommendations |
+| [Multimodal Product Search](#multimodal-product-search) | Glance | Image + text product retrieval |
+| [Conversational AI Agents](#conversational-ai-agents-for-commerce) | Glance | AI assistants for commerce |
+| [Customer Intelligence Platform](#customer-intelligence-platform) | Rakuten | Marketing intelligence |
+| [Fraud Detection Platform](#ai-fraud-detection-platform) | Rakuten | Trust and safety |
+| [User Modeling Platform](#user-modeling-and-personalization-platform) | Samsung | Demographics & interest inference |
+| [Telemetry Intelligence Platform](#telemetry-intelligence-platform) | VMware | Log analytics & anomaly detection |
+
+---
+
+# Glance
+
+---
+
+### Real-Time Content Recommendation Platform
+
+**Scale:** 150M+ Daily Active Users
 
 **Problem**  
 Personalized content discovery across news, entertainment, and lifestyle feeds.
 
-**System Overview**  
-Built large-scale recommender systems powering the primary discovery surface for millions of Android users.
-
-**Core ML Components**
+**Key ML Components**
 
 - Candidate generation using large-scale retrieval models  
 - Deep learning ranking models optimized for engagement  
@@ -39,64 +50,59 @@ Built large-scale recommender systems powering the primary discovery surface for
 
 - Personalized feed serving hundreds of millions of users  
 - Sub-second recommendation latency  
-- Significant improvement in engagement and discovery
+- Significant improvements in engagement and discovery
 
 ---
 
-## AI-Driven Fashion Commerce Feed
+### AI-Driven Fashion Commerce Feed
 
-**Company:** Glance  
-**Scale:** 1M+ fashion shoppers  
+**Scale:** 1M+ fashion shoppers
 
 **Problem**  
-Enable personalized fashion discovery and product recommendations directly within content feeds.
+Enable personalized fashion discovery within content feeds.
 
 **System Components**
 
 - Multimodal product embeddings (image + text)  
 - Retrieval models for fashion similarity  
-- Personalized ranking for fashion feeds  
+- Personalized ranking models  
 - Reinforcement learning for engagement optimization  
 
 **Impact**
 
 - Personalized fashion widgets driving commerce discovery  
-- Increased product engagement and conversion
+- Increased engagement and product exploration
 
 ---
 
-## Multimodal Product Search
-
-**Company:** Glance  
+### Multimodal Product Search
 
 **Problem**  
-Allow users to search a large product catalog using **text queries, images, or both**.
+Search a large product catalog using **text queries, images, or both**.
 
 **ML Architecture**
 
-- Vision transformer models for product image embeddings  
-- NLP models for product description understanding  
-- Multimodal embedding space for unified retrieval  
-- Approximate nearest neighbor search for real-time performance  
+- Vision transformer models for product embeddings  
+- NLP models for catalog understanding  
+- Multimodal embedding space  
+- Approximate nearest neighbor retrieval  
 
 **Impact**
 
-- Sub-second search over million-scale product catalog  
-- Improved relevance for fashion and product discovery
+- Sub-second search across million-scale product catalogs  
+- Improved relevance for fashion discovery
 
 ---
 
-## Conversational AI Agents for Commerce
-
-**Company:** Glance  
+### Conversational AI Agents for Commerce
 
 **Problem**  
-Enable users to discover products and content using natural language conversations.
+Enable users to discover products and content via natural language conversations.
 
 **System Design**
 
 - LLM-powered conversational agents  
-- Agentic planning and tool use  
+- Agentic task planning and tool use  
 - Retrieval-augmented generation  
 - Integration with recommendation and catalog systems  
 
@@ -108,12 +114,14 @@ Enable users to discover products and content using natural language conversatio
 
 ---
 
-## Customer Intelligence Platform
+# Rakuten
 
-**Company:** Rakuten  
+---
+
+### Customer Intelligence Platform
 
 **Problem**  
-Understand and activate customer behavior across multiple digital businesses.
+Understand and activate customer behavior across Rakuten’s digital ecosystem.
 
 **ML Components**
 
@@ -124,35 +132,34 @@ Understand and activate customer behavior across multiple digital businesses.
 
 **Impact**
 
-- Used across 70+ Rakuten businesses  
-- Improved targeting and marketing effectiveness
+- Used across **70+ Rakuten businesses**  
+- Improved marketing targeting and campaign performance
 
 ---
 
-## AI Fraud Detection Platform
-
-**Company:** Rakuten  
+### AI Fraud Detection Platform
 
 **Problem**  
-Detect fraudulent behavior across ads, reviews, affiliate marketing, and transactions.
+Detect fraudulent activity across ads, reviews, affiliates, and transactions.
 
 **ML Techniques**
 
 - Graph anomaly detection  
 - Behavioral modeling  
-- NLP models for review analysis  
+- NLP analysis for reviews  
 - Real-time risk scoring  
 
 **Impact**
 
-- Improved fraud detection across multiple platforms  
-- Reduced financial and trust risks
+- Reduced financial and trust risks across multiple platforms
 
 ---
 
-## User Modeling and Personalization
+# Samsung
 
-**Company:** Samsung Electronics  
+---
+
+### User Modeling and Personalization Platform
 
 **Problem**  
 Infer user demographics and interests from behavioral signals.
@@ -166,27 +173,29 @@ Infer user demographics and interests from behavioral signals.
 
 **Applications**
 
-- Personalization across Samsung apps and services  
+- Personalization across Samsung apps  
 - Customer-driven marketing  
 - Smartphone ecosystem engagement
 
 ---
 
-## Telemetry Intelligence Platform
+# VMware
 
-**Company:** VMware  
+---
+
+### Telemetry Intelligence Platform
 
 **Problem**  
-Analyze large-scale telemetry logs to detect system anomalies and product usage patterns.
+Analyze large-scale telemetry logs to detect anomalies and product usage patterns.
 
 **ML Methods**
 
-- Distributed machine learning on Apache Spark  
+- Distributed ML on Apache Spark  
 - Log pattern mining  
 - Time-series anomaly detection  
 - Automated regression detection  
 
 **Impact**
 
-- Improved observability for enterprise software systems  
-- Automated issue detection in distributed platforms
+- Improved observability for enterprise software platforms  
+- Automated detection of system issues
