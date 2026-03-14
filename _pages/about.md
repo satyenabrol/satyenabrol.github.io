@@ -6,27 +6,139 @@ redirect_from:
   - /about/
   - /about.html
 ---
+---
+layout: archive
+title: "About Me"
+permalink: /
+author_profile: true
+---
 
+## About Me
 
-I am **Vice President of Machine Learning at [Glance](https://glance.com)**, an AI-powered platform delivering personalized content and commerce experiences to hundreds of millions of Android users worldwide. I lead teams building **large-scale machine learning systems for real-time personalization**, including recommender systems, multimodal search, and conversational AI agents that power content discovery and commerce at global scale.
+I am **Vice President of Machine Learning at [Glance](https://glance.com)**, where I lead teams building **large-scale AI systems for real-time personalization, recommendations, multimodal search, and conversational AI**.
 
-My career sits at the intersection of **research, product, and large-scale AI infrastructure**. Over the past 17+ years, I have built and led machine learning teams across global technology companies including **Glance, Rakuten, Samsung Electronics, and VMware**, working on problems spanning recommender systems, customer intelligence, fraud detection, and user modeling.
+My work focuses on building **AI-native consumer platforms** that power personalized discovery of content, products, and services for **hundreds of millions of users worldwide**.
 
-At Glance, my team develops **real-time recommendation and personalization systems operating at massive scale**, powering content discovery for more than **150 million daily active users** and enabling new AI-driven commerce experiences. Our work spans retrieval and ranking systems, multimodal representation learning, visual and text search across large product catalogs, and emerging **agentic conversational AI systems**.
+---
 
-Previously, I served as **Senior Director and Head of the Rakuten Institute of Technology India**, where I led research teams working on AI systems for customer marketing, social graph intelligence, language technologies, and fraud detection across Rakuten’s global ecosystem. These initiatives helped transform large volumes of behavioral data into actionable intelligence for marketing, commerce, and trust platforms.
+## What I Work On
 
-I received my **PhD in Computer Science from the University of Texas at Dallas**, where my research focused on **location mining and graph-based learning in online social networks**. My academic work explored how behavioral signals and social graphs can be leveraged to infer user context and intent—an area that continues to influence modern personalization systems.
+My research and engineering interests lie at the intersection of:
 
-Across academia and industry, I have contributed to the field through **15+ research publications, 20+ patents, and a book on social network analysis**. I was recognized among the **“40 Under 40 Data Scientists in India” by Analytics India Magazine**.
+- Recommender Systems  
+- Real-Time Personalization  
+- Multimodal Machine Learning (vision + language + behavior)  
+- AI for Commerce and Discovery  
+- Agentic AI and Conversational Interfaces  
 
-More broadly, my work focuses on advancing **AI-native consumer platforms**—systems where machine learning is not just an optimization layer, but the core interface through which users discover content, products, and services.
+---
 
-### Research & Professional Interests
-- AI-native commerce and discovery platforms  
+## Current Role
+
+### Vice President – Machine Learning  
+**Glance (InMobi Group)**
+
+At Glance, I lead machine learning teams building AI systems that power **personalized content and commerce experiences for over 150M daily active users**.
+
+Areas my team works on include:
+
+- Large-scale recommendation systems  
+- Multimodal product search (image + text)  
+- Personalized commerce feeds  
+- Conversational AI agents  
+- Representation learning for user modeling
+
+---
+
+## Previous Experience
+
+### Senior Director – Research  
+**Rakuten Institute of Technology**
+
+Led applied AI research for Rakuten’s global ecosystem, focusing on:
+
+- Customer intelligence platforms  
+- Graph-based user modeling  
+- Marketing science and look-alike modeling  
+- Fraud detection across ads, reviews, and transactions  
+
+---
+
+### Machine Learning & Data Science Roles
+
+Earlier in my career I worked on large-scale ML systems at:
+
+- **Samsung Electronics** — user modeling and personalization for mobile ecosystems  
+- **VMware (Palo Alto)** — telemetry analytics and distributed machine learning systems
+
+---
+
+## Education
+
+**PhD in Computer Science (Machine Learning)**  
+University of Texas at Dallas
+
+My doctoral research focused on **location mining and graph-based learning in online social networks**, exploring how behavioral signals and social graphs can infer user context and intent.
+
+---
+
+## Research and Innovation
+
+Across academia and industry, I have contributed through:
+
+- **15+ peer-reviewed publications**
+- **20+ patents**
+- Co-author of the book  
+  *Analyzing and Securing Social Networks*
+
+My work spans recommender systems, social graph mining, user modeling, and large-scale machine learning systems.
+
+---
+
+## Selected Recognition
+
+- **40 Under 40 Data Scientists in India** — Analytics India Magazine  
+- Samsung Outstanding Performer Award  
+- Rakuten North Star Award  
+- VMware Above & Beyond Awards  
+
+---
+
+# Latest News
+
+### March 2026
+Speaking at **Machine Learning Developers Summit (MLDS) 2026** on  
+**“Solving the Cold-Start Problem in Fashion Recommendations Using LLMs.”** :contentReference[oaicite:1]{index=1}
+
+---
+
+### 2025
+Our work on **LookSync: Large-Scale Visual Product Search for AI-Generated Fashion Looks** received the **Best Paper Award (Demo Track)** at CODS 2025. :contentReference[oaicite:2]{index=2}
+
+---
+
+### 2024
+Co-authored research on **large-scale AI systems for marketing and recommendation platforms** presented at major conferences including **SIGIR and LREC-COLING**.
+
+---
+
+## Professional Interests
+
+Beyond my work, I am interested in:
+
+- AI-native consumer platforms  
 - Real-time recommender systems at global scale  
-- Multimodal machine learning for content and product understanding  
-- Agentic AI systems and conversational interfaces  
-- Building high-performing machine learning organizations  
+- Multimodal AI for commerce and discovery  
+- Agentic AI systems  
+- Building high-performing machine learning organizations
 
-I am also actively involved in the broader AI community through **research collaborations, conference speaking, mentoring, and advising startups working on AI-driven consumer products**.
+---
+
+## Community
+
+I actively engage with the AI community through:
+
+- Research collaborations  
+- Conference speaking  
+- Mentoring ML engineers and researchers  
+- Advising AI startups
