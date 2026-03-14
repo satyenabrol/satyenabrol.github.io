@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "AI Systems Built"
-permalink: /systems/
+permalink: /experience/
 author_profile: true
 ---
 
