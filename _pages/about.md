@@ -85,7 +85,7 @@ My work spans recommender systems, social graph mining, user modeling, and large
 
 ---
 
-<div style="flex:1; min-width:250px; padding:15px; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa; box-shadow:0 2px 6px rgba(0,0,0,0.08);">
+<div style="float:right; width:30%; margin-left:25px; padding:15px; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa;">
 
 <h3>Latest News</h3>
 
