@@ -4,9 +4,6 @@ title: "About Me"
 permalink: /
 author_profile: true
 ---
-<div style="display:flex; flex-wrap:wrap; gap:30px;">
-
-<div style="flex:3; min-width:300px;">
 
 I am **Vice President of Machine Learning at [Glance](https://glance.com)**, where I lead teams building **large-scale AI systems for real-time personalization, recommendations, multimodal search, and conversational AI**.
 
@@ -87,7 +84,6 @@ Across academia and industry, I have contributed through:
 My work spans recommender systems, social graph mining, user modeling, and large-scale machine learning systems.
 
 ---
-</div>
 
 <div style="flex:1; min-width:250px; padding:15px; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa; box-shadow:0 2px 6px rgba(0,0,0,0.08);">
 
@@ -102,7 +98,5 @@ My work spans recommender systems, social graph mining, user modeling, and large
 <li><strong>2024:</strong> Research presented at SIGIR and LREC-COLING.</li>
 
 </ul>
-
-</div>
 
 </div>
