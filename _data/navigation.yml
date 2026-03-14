@@ -25,3 +25,16 @@ main:
     
   - title: "Service"
     url: /service/
+
+news:
+  - title: "Mar 2026"
+    children:
+      - title: "Speaking at MLDS 2026 on LLMs for Fashion Recommendations"
+
+  - title: "2025"
+    children:
+      - title: "Best Paper (Demo Track) — CODS 2025"
+
+  - title: "2024"
+    children:
+      - title: "Research published at SIGIR and LREC-COLING"
