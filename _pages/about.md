@@ -34,7 +34,7 @@ My work focuses on building **AI-native consumer platforms** that power personal
 
 My research and engineering interests lie at the intersection of:
 
-- Recommender Systems  
+- Recommendation Systems  
 - Real-Time Personalization  
 - Multimodal Machine Learning (vision + language + behavior)  
 - AI for Commerce and Discovery  
@@ -103,51 +103,3 @@ Across academia and industry, I have contributed through:
 My work spans recommender systems, social graph mining, user modeling, and large-scale machine learning systems.
 
 ---
-
-## Selected Recognition
-
-- **40 Under 40 Data Scientists in India** — Analytics India Magazine  
-- Samsung Outstanding Performer Award  
-- Rakuten North Star Award  
-- VMware Above & Beyond Awards  
-
----
-
-# Latest News
-
-### March 2026
-Speaking at **Machine Learning Developers Summit (MLDS) 2026** on  
-**“Solving the Cold-Start Problem in Fashion Recommendations Using LLMs.”** :contentReference[oaicite:1]{index=1}
-
----
-
-### 2025
-Our work on **LookSync: Large-Scale Visual Product Search for AI-Generated Fashion Looks** received the **Best Paper Award (Demo Track)** at CODS 2025. :contentReference[oaicite:2]{index=2}
-
----
-
-### 2024
-Co-authored research on **large-scale AI systems for marketing and recommendation platforms** presented at major conferences including **SIGIR and LREC-COLING**.
-
----
-
-## Professional Interests
-
-Beyond my work, I am interested in:
-
-- AI-native consumer platforms  
-- Real-time recommender systems at global scale  
-- Multimodal AI for commerce and discovery  
-- Agentic AI systems  
-- Building high-performing machine learning organizations
-
----
-
-## Community
-
-I actively engage with the AI community through:
-
-- Research collaborations  
-- Conference speaking  
-- Mentoring ML engineers and researchers  
-- Advising AI startups
