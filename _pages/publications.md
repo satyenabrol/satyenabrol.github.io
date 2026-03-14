@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research & Intellectual Property"
-permalink: /research/
+permalink: /publications/
 author_profile: true
 ---
 
