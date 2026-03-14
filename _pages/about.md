@@ -3,6 +3,9 @@ layout: single
 title: "About Me"
 permalink: /
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am **Vice President of Machine Learning at [Glance](https://glance.com)**, where I lead teams building **large-scale AI systems for real-time personalization, recommendations, multimodal search, and conversational AI**.
