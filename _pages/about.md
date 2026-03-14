@@ -1,10 +1,11 @@
 ---
-permalink: /
+layout: single
 title: "About Me"
+permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+sidebar:
+  title: "Latest News"
+  nav: news
 ---
 
 ## About Me
