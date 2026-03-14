@@ -3,10 +3,21 @@ layout: single
 title: "About Me"
 permalink: /
 author_profile: true
-sidebar:
-  title: "Latest News"
-  nav: news
 ---
+<div style="float:right; width:30%; margin-left:25px; padding:15px; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa;">
+
+<h3>Latest News</h3>
+
+<p><strong>Mar 2026</strong><br>
+Speaking at <a href="https://mlds.analyticsindiamag.com/">MLDS 2026</a> on LLMs for Fashion Recommendations.</p>
+
+<p><strong>2025</strong><br>
+Best Paper Award (Demo Track) — CODS 2025 for work on visual product search.</p>
+
+<p><strong>2024</strong><br>
+Research presented at SIGIR and LREC-COLING.</p>
+
+</div>
 
 ## About Me
 
