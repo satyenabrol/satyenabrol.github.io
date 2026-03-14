@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-======
-
 I am **Vice President of Machine Learning at [Glance](https://glance.com)**, an AI-powered platform delivering personalized content and commerce experiences to hundreds of millions of Android users worldwide. I lead teams building **large-scale machine learning systems for real-time personalization**, including recommender systems, multimodal search, and conversational AI agents that power content discovery and commerce at global scale.
 
 My career sits at the intersection of **research, product, and large-scale AI infrastructure**. Over the past 17+ years, I have built and led machine learning teams across global technology companies including **Glance, Rakuten, Samsung Electronics, and VMware**, working on problems spanning recommender systems, customer intelligence, fraud detection, and user modeling.
