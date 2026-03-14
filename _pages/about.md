@@ -7,6 +7,35 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Latest News
+
+<div style="max-height:220px; overflow-y:auto; padding:15px; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa;">
+
+<ul>
+
+<li><strong>Mar 2026</strong> — Speaking at <a href="https://mlds.analyticsindiamag.com/">MLDS 2026</a> on AI-native commerce and real-time fashion recommendations.</li>
+
+<li><strong>Feb 2026</strong> — Serving on the program committee for upcoming AI and ML conferences.</li>
+
+<li><strong>Dec 2025</strong> — Best Paper Award (Demo Track) at <a href="https://ikdd.acm.org/cods-2025/"> CODS-COMAD 2025 </a> for work on visual product search.</li>
+
+<li><strong>2024</strong> — Research presented at SIGIR and LREC-COLING.</li>
+
+<li><strong>2024</strong> — Leading ML systems powering real-time personalization for 150M+ daily users at Glance.</li>
+
+<li><strong>2023</strong> — Rakuten North Star Award for innovation in AI systems.</li>
+
+<li><strong>2023</strong> — Research on customer modeling and lookalike learning deployed across Rakuten ecosystem.</li>
+
+<li><strong>2022</strong> — Recognized among “40 Under 40 Data Scientists in India”.</li>
+
+</ul>
+
+</div>
+
+---
+
+## About Me
 
 I am **Vice President of Machine Learning at [Glance](https://glance.com)**, where I lead teams building **large-scale AI systems for real-time personalization, recommendations, multimodal search, and conversational AI**.
 
@@ -88,18 +117,3 @@ My work spans recommender systems, social graph mining, user modeling, and large
 
 ---
 
-<div style="float:right; width:30%; margin-left:25px; padding:15px; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa;">
-
-<h3>Latest News</h3>
-
-<ul>
-
-<li><strong>Mar 2026:</strong> Speaking at MLDS 2026 on <em>LLMs for Fashion Recommendations</em>.</li>
-
-<li><strong>2025:</strong> Best Paper Award (Demo Track) — CODS 2025.</li>
-
-<li><strong>2024:</strong> Research presented at SIGIR and LREC-COLING.</li>
-
-</ul>
-
-</div>
