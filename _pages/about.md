@@ -4,25 +4,9 @@ title: "About Me"
 permalink: /
 author_profile: true
 ---
-<div style="float:right; width:30%; margin-left:25px; padding:15px; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa; box-shadow:0 2px 6px rgba(0,0,0,0.08);">
+<div style="display:flex; flex-wrap:wrap; gap:30px;">
 
-<h3>Latest News</h3>
-
-<ul>
-
-<li><strong>Mar 2026:</strong> Speaking at <a href="https://mlds.analyticsindiamag.com/">MLDS 2026</a> on <em>LLMs for Fashion Recommendations</em>.</li>
-
-<li><strong>2025:</strong> Best Paper Award (Demo Track) at CODS 2025 for work on visual product search.</li>
-
-<li><strong>2024:</strong> Research presented at SIGIR and LREC-COLING.</li>
-
-<li><strong>2023:</strong> Received Rakuten North Star Award for innovation in AI systems.</li>
-
-</ul>
-
-</div>
-
-## About Me
+<div style="flex:3; min-width:300px;">
 
 I am **Vice President of Machine Learning at [Glance](https://glance.com)**, where I lead teams building **large-scale AI systems for real-time personalization, recommendations, multimodal search, and conversational AI**.
 
@@ -103,3 +87,22 @@ Across academia and industry, I have contributed through:
 My work spans recommender systems, social graph mining, user modeling, and large-scale machine learning systems.
 
 ---
+</div>
+
+<div style="flex:1; min-width:250px; padding:15px; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa; box-shadow:0 2px 6px rgba(0,0,0,0.08);">
+
+<h3>Latest News</h3>
+
+<ul>
+
+<li><strong>Mar 2026:</strong> Speaking at MLDS 2026 on <em>LLMs for Fashion Recommendations</em>.</li>
+
+<li><strong>2025:</strong> Best Paper Award (Demo Track) — CODS 2025.</li>
+
+<li><strong>2024:</strong> Research presented at SIGIR and LREC-COLING.</li>
+
+</ul>
+
+</div>
+
+</div>
