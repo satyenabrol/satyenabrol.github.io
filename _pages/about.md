@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Latest News
 
-<div style="max-height:220px; overflow-y:auto; padding:15px; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa;">
+<div style="max-height:220px; overflow-y:auto; padding:15px; border-radius:6px; border:1px solid var(--border-color, #e5e5e5);">
 
 <ul>
 <li><strong>Mar 2026</strong> — Speaking at <a href="https://mlds.analyticsindiamag.com/">MLDS 2026</a> on AI-native commerce and real-time fashion recommendations.</li>
