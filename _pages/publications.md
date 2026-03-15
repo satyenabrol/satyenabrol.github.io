@@ -12,12 +12,6 @@ author_profile: true
 - [Patents](#patents)
 
 ---
----
-layout: single
-title: "Publications & Patents"
-permalink: /research/
-author_profile: true
----
 
 # Publications & Patents
 
