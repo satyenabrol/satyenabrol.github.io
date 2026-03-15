@@ -13,15 +13,6 @@ author_profile: true
 
 ---
 
-# Publications & Patents
-
-## Contents
-
-- [Research Papers](#research-papers)
-- [Patents](#patents)
-
----
-
 # Research Papers
 
 ## 2024
