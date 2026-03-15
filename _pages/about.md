@@ -12,25 +12,17 @@ redirect_from:
 <div style="max-height:220px; overflow-y:auto; padding:15px; border:1px solid #e5e5e5; border-radius:6px; background:#fafafa;">
 
 <ul>
-
 <li><strong>Mar 2026</strong> — Speaking at <a href="https://mlds.analyticsindiamag.com/">MLDS 2026</a> on AI-native commerce and real-time fashion recommendations.</li>
-
-<li><strong>Feb 2026</strong> — Serving on the program committee for upcoming AI and ML conferences.</li>
 
 <li><strong>Dec 2025</strong> — Best Paper Award (Demo Track) at <a href="https://ikdd.acm.org/cods-2025/"> CODS-COMAD 2025 </a> for work on visual product search.</li>
 
-<li><strong>2024</strong> — Research presented at SIGIR and LREC-COLING.</li>
+<li><strong>Sep 2025</strong> — Organized and spoke at <a href="https://www.inmobi.com/encore"> Encore (InMobi-Glance's core Technical Event) </a> on When Commerce Meets AI: Powering Virtual Try-On and Personalization</li>
 
-<li><strong>2024</strong> — Leading ML systems powering real-time personalization for 150M+ daily users at Glance.</li>
+<li><strong>May 2024</strong> Led and moderated Panel discussion on AI Safety - Secure, Ethical, and Aligned with Human Values at <a href="https://product-conference.corp.rakuten.co.in/2024/"> Rakuten Product Conference </a> </li>
 
-<li><strong>2023</strong> — Rakuten North Star Award for innovation in AI systems.</li>
-
-<li><strong>2023</strong> — Research on customer modeling and lookalike learning deployed across Rakuten ecosystem.</li>
-
-<li><strong>2022</strong> — Recognized among “40 Under 40 Data Scientists in India”.</li>
+<li><strong>Nov 2023</strong> — Lead Organizer for <a href="https://tech.rakuten.co.jp/rtc2023"> Rakuten Technology Conference - India </a> with theme for AI-nization at Rakuten</li>
 
 </ul>
-
 </div>
 
 ---
