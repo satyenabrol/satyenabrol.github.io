@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publications & Patents"
-permalink: /research/
+permalink: /publications/
 author_profile: true
 ---
 
