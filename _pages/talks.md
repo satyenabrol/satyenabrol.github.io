@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Talks
-
 ## Contents
 
 - [2026](#2026)
