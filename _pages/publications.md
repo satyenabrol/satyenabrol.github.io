@@ -9,6 +9,7 @@ author_profile: true
 
 ## Contents
 - [Research Papers](#research-papers)
+- [Book](#book)
 - [Patents](#patents)
 
 ---
@@ -134,7 +135,7 @@ Link: https://dblp.org/rec/conf/icdm/KhanPAT10
 
 ---
 
-## Book
+# Book
 
 ### Analyzing and Securing Social Networks  
 Latifur Khan, Vaibhav Khadilkar, Murat Kantarcioglu, Raymond Heatherly, **Satyen Abrol**, Bhavani Thuraisingham  
